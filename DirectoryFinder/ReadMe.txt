@@ -1,0 +1,2 @@
+Kaynakça
+Atıl Samancıoğlu Geleceği Yazanlar Pentesting
