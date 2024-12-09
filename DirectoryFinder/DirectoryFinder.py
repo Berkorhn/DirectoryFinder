@@ -18,7 +18,7 @@ def FindDirecties(url):
                 print("Found URL --> " + testUrl)
                 foundUrls.append(word)
 
-url = "atilsamancioglu.com"
+url = ""   #Target url
 FindDirecties(url)
 
 for foundUrl in foundUrls:
